@@ -55,5 +55,3 @@ names you will use in code, they're decoupled from their link names now.
 If this trickery won't make C libraries easier to interop for everyone, it will definitely help me: I can build your
 code-name-link-name-unaware libraries and postprocess them with this script so they won't collide with my global
 procedures and data structures.
-
-License: Public Domain
